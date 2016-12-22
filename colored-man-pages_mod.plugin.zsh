@@ -1,0 +1,1 @@
+/Users/zuxfoucault/dotfiles/zsh/colored-man-pages_mod.plugin.zsh
